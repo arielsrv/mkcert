@@ -1,0 +1,35 @@
+### Go template
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+.idea
+bin
+kustomize-out
+.task
+.vscode
+coverage.html
+coverage.out
+report.xml
+.DS_Store
+.fleet
+coverage-report.html
+coverage-report.out
+gl-code-quality-report.json
+dump.lsif
+index.scip
+*.pem
+.run
+build/
